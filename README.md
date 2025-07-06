@@ -1,6 +1,9 @@
 # Amazon-Product-Review-Analysis
 My first Data Analyst Project on excel
 
+@[amazon_dashboard](https://github.com/user-attachments/assets/28bc7314-b7e1-4b14-b7fc-7c95f1b3a441)
+
+
 
 ## General Overview
 
