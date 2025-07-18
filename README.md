@@ -8,11 +8,17 @@ My first Data Analyst Project on excel
 ## General Overview
 
 
-This report presents a comprehensive analysis of Amazon product reviews across various categories, focusing on customer feedback, pricing trends, discount patterns, and performance metrics. The aim is to extract actionable insights that drive strategic decisions related to product pricing, promotion, and inventory management.
+This report presents a comprehensive analysis of RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platform like Amazon. This report shoes product reviews across various categories, focusing on customer feedback, pricing trends, discount patterns, and performance metrics.
+
+## Aim 
+
+
+The aim is to extract actionable insights that drive strategic decisions related to product pricing, promotion, marketing strategies and inventory management.
+
 
 ## Methodology
 
-Step 1: Data Cleaning – Removed duplicates, handled missing values.
+Step 1: Data Cleaning – Removed duplicates, handled missing values, change data type.
 
 Step 2: Sentiment Analysis – Classified reviews as Positive, Negative, or Neutral.
 
@@ -41,34 +47,34 @@ The product rating distribution shows a high concentration around the 4.0-4.4 ra
 
 - Highest-Rated Products:
 
-Products with id such as B09G9FPGTN and B09NDM4XKX consistently received ratings above 4.8, showcasing strong customer satisfaction.
+Products with id such as **B09ZHCJDP1**, **B0BP7XLX48** and **BOBQRJ3C47** consistently received ratings above 4.8, showcasing strong customer satisfaction.
 
 - Top Products by Review Volume:
 
-Product with id B07X9M9L2H leads with over 42,000 reviews, highlighting strong customer engagement.
+Product with id **B07KSMBL2H**, **B014I8SX4Y** and **B014I8SSD0** leads with over 42,000 reviews, highlighting strong customer engagement.
 
 #### Category Analysis
 
 - Top Performing Categories by Discount:
-Computers & Accessories (94%) offer the highest share of discounts,
-followed by Electronic and Home Appliances.
+__Computers & Accessories__ (94%) offer the highest share of discounts,
+followed by __Electronic__ and __Home Appliances__.
 
 
 - Average Price vs Discounted Price:
 
-Electronics and Home & Kitchen show the most significant gaps between actual and discounted prices, emphasizing aggressive pricing strategies to attract customers.
+**Electronics** and __Home & Kitchen__ show the most significant gaps between actual and discounted prices, emphasizing aggressive pricing strategies to attract customers.
 
 
 #### Price Range Focus:
 
-The majority of products fall into the ₹251 – ₹1000 range, targeting budget-conscious customers while still maintaining a healthy review volume.
+The majority of products fall into greater than ₹1000 range, targeting budget-conscious customers while still maintaining a healthy review volume.
 
 
 #### Correlation Between Ratings and Discounts
 
-Categories such as Health & Personal Care and Home & Kitchen show a positive correlation between high ratings and generous discounts.
+Categories such as Home **Improvement Care** and **Home & Kitchen** show a positive correlation between high ratings and generous discounts.
 
-Interestingly, categories like Car & Motorbike have lower average ratings but relatively moderate discounts, indicating room for improvement in product quality or customer satisfaction.
+Interestingly, categories like __Car & Motorbike__ and __Health & PersonalCare__ have lower average ratings but relatively moderate discounts, indicating room for improvement in product quality or customer satisfaction.
 
 
 ### Notable Observations
@@ -80,15 +86,15 @@ Despite high discount rates, not all categories benefit from improved ratings—
 The electronics category, although heavily discounted, maintains a strong presence in both revenue and review metrics.
 
 
-### Strategic Recommendations
+## Strategic Recommendations
 
 -  Product Optimization:
 
-Focus on quality improvement in categories with low ratings despite discounts (e.g., Car & Motorbike).
+Focus on quality improvement in categories with low ratings despite discounts (e.g., _Car & Motorbike_).
 
 - Discount Strategy:
 
-Maintain discount strategies in electronics and computers, but explore bundling or cross-sell opportunities to boost value perception.
+Maintain discount strategies in **electronics** and **computers**, but explore bundling or cross-sell opportunities to boost value perception.
 
 - Inventory and Promotion:
 
@@ -101,6 +107,6 @@ Encourage reviews for newer or under-reviewed products to better understand cust
 
 ## Conclusion
 
-The Amazon Product Review Analysis dashboard provides key insights into consumer behavior, pricing efficiency, and category performance. By leveraging these findings, stakeholders can enhance product strategies, drive customer satisfaction, and increase overall profitability.
+The Amazon Product Review Analysis dashboard provides key insights into consumer behavior, pricing efficiency, and category performance. By leveraging these findings, the stakeholders can enhance product strategies, drive customer satisfaction, and increase overall profitability.
 
 
