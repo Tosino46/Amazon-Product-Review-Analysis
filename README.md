@@ -15,6 +15,9 @@ This report presents a comprehensive analysis of RetailTech Insights, a company 
 
 The aim is to extract actionable insights that drive strategic decisions related to product pricing, promotion, marketing strategies and inventory management.
 
+## Source
+
+This file was shared to me by DSA- The Incubator Hub as our First Project as a Data analyst.
 
 ## Methodology
 
